@@ -2,7 +2,7 @@
 
 ## The following queries are working.
 
-```json
+```
   query users{}
   query user(id: 1){}
 
@@ -30,6 +30,4 @@
 
   query participants{}
   query participant(id: 1){}
-
-
 ```
